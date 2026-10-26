@@ -10,7 +10,6 @@ OceTags is OceNet's client-side tier display mod for Minecraft, with built-in MC
 
 [![Download OceTags on Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/ocetags)
 
-
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/J9GmoPSz?style=for-the-badge&logo=modrinth&logoColor=white&label=Downloads&color=1bd96a)](https://modrinth.com/mod/ocetags)
 
 
