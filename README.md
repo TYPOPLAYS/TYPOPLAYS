@@ -1,6 +1,6 @@
-# TYPOPLAYS
+# Hi, i'm Typo! 👋
 
-Minecraft mod developer from Australia, focused on client-side mods and tools for the Minecraft community.
+I'm a developer from Australia, currently focused on fabric mods/tools.
 
 ## My Projects
 
@@ -11,6 +11,8 @@ OceTags is OceNet's client-side tier display mod for Minecraft, with built-in MC
 [![Download OceTags on Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/ocetags)
 
 [![Modrinth Downloads](https://shields.io)](https://modrinth.com/mod/ocetags)
+
+
 
 #### Links
 
