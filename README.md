@@ -8,7 +8,8 @@ Minecraft mod developer from Australia, focused on client-side mods and tools fo
 
 OceTags is OceNet's client-side tier display mod for Minecraft, with built-in MCTiers support. View player tiers directly in nametags, the tab list, and chat.
 
-[![Download on Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/ocetags)
+[![Download OceTags on Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/ocetags)
+
 [![Modrinth Downloads](https://shields.io)](https://modrinth.com/mod/ocetags)
 
 #### Links
